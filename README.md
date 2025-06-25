@@ -1,2 +1,2 @@
 # Password Manager
-- password storing and securing it with encryption.
+- Storing passwords and securing it with encryption.
